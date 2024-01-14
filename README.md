@@ -62,7 +62,9 @@ The average vehicle price by state is less accurate than finding which location 
 ![Alt text](map_highest_vehicle_price.png)
 
 The map above describes the location of the top 10 highest average vehicle prices located by suburbs. The data shows that numerous high vehicle prices are located in Sydney, Melbourne and Perth. The highest average vehicle price being the Rushcutters Bay with an average of $250,849.09$ in Sydney NSW. Whilst Geelong West having the second highest average vehicle prices with an average of $152,356.0$ and Medindine having the third highest average vehicle price with $127688.0$. Surprisingly the suburb with the highest average vehicle price from Perth is the Nedlands, with an average vehicle price of $123,200.00$.
+
 ![Alt text](pie_chart_average_suburb.png)
+
 The final graph showcases the top 10 highest average vehicle prices by suburbs in a pie chart to display the average price difference compared to other suburbs in the list. 
 
 Q2 - How much does engine size (engine volume and number of cylinders) affect fuel consumptions?

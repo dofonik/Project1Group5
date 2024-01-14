@@ -52,7 +52,7 @@ The first graph above (figure 1.0) shows the average weekly income by State from
 The rest of the states are relatively similar to one another, with Tasmania (TAS) and South Australia (SA) having the lowest average weekly income compared to the other states. With an average weekly income of $1619.3, Tasmania has the smallest average income and smaller population compared to the Australia (Aust.). Therefore, the result Tasmania having the least average income makes sense.
 
 The "average weekly income by state", will provide an indicator whether or not the weekly income has any correlation with the price of vehicle by state. Later in this question, a bar graph that showcase the vehicle price by state will be displayed to determine if there are any correlatio or if this there's a pattern in the dataset.
-![Alt text](Average_weekly_income.png)
+![Alt text](Average_vehicle_state.png)
 
 After finding the average weekly income by state, the next graph will be the vehicle prices by state (figure 1.1). The purpose of this graph is to find whether there's a pattern with the average weekly income and the average vehicle prices. In this graph, Western Australia has the highest vehicle prices on with $37,372.94$. The given result suggest that, WA has the highest average weekly income and the highest vehicle prices as well. However, Tasmania has a high vehicle price and the average weekly income for the state is lower than the average Australian weekly income (figure 1.0). The average weekly income for Tasmania is $1,619.3$ meanwhile the average vehicle price of Tasmania is $37,521.62$ which makes earning a vehicle in TAS more difficult compared to the rest of states. 
 
@@ -63,7 +63,6 @@ The average vehicle price by state is less accurate than finding which location 
 
 The map above describes the location of the top 10 highest average vehicle prices located by suburbs. The data shows that numerous high vehicle prices are located in Sydney, Melbourne and Perth. The highest average vehicle price being the Rushcutters Bay with an average of $250,849.09$ in Sydney NSW. Whilst Geelong West having the second highest average vehicle prices with an average of $152,356.0$ and Medindine having the third highest average vehicle price with $127688.0$. Surprisingly the suburb with the highest average vehicle price from Perth is the Nedlands, with an average vehicle price of $123,200.00$.
 ![Alt text](pie_chart_average_suburb.png)
-
 The final graph showcases the top 10 highest average vehicle prices by suburbs in a pie chart to display the average price difference compared to other suburbs in the list. 
 
 Q2 - How much does engine size (engine volume and number of cylinders) affect fuel consumptions?
